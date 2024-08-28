@@ -18,8 +18,8 @@ When I'm not coding, I'm usually exploring cybersecurity challenges.
 
 ### 🌐 Connect with Me
 
-- [GitHub](https://github.com/mohitvaishnav56)
-- [LinkedIn](www.linkedin.com/in/mohit-vaishnav-50682428b)
+- [GitHub]("https://github.com/mohitvaishnav56")
+- [LinkedIn]("www.linkedin.com/in/mohit-vaishnav-50682428b")
 
 Feel free to explore my repositories and connect with me!
 
