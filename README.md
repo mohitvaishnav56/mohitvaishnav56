@@ -4,7 +4,7 @@ I'm a passionate **B.Tech Computer Science student** with a fervent interest in 
 
 ### 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, GSAP (Animation Library)
+- **Frontend:** HTML, CSS, JavaScript, GSAP (Animation Library), REACT.js
 - **Languages:** C, C++
 - **Cybersecurity Enthusiast:** Always learning and exploring the latest in cybersecurity trends, practices, and techniques to safeguard systems.
 
